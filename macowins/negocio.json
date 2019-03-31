@@ -1,0 +1,112 @@
+{
+  "ventas": [
+    {
+      "coeficiente": 1.0,
+      "cuotas": 10,
+      "items": [
+        {
+          "prenda": {
+            "precioBase": 180.0,
+            "estado": {
+              "estado": "nuevo"
+            },
+            "tipo": "campera"
+          },
+          "cantidad": 10
+        },
+        {
+          "prenda": {
+            "precioBase": 80.0,
+            "estado": {
+              "estado": "liquidacion"
+            },
+            "tipo": "remera"
+          },
+          "cantidad": 40
+        }
+      ],
+      "fecha": {
+        "year": 2019,
+        "month": 3,
+        "day": 26
+      }
+    },
+    {
+      "items": [
+        {
+          "prenda": {
+            "precioBase": 80.0,
+            "estado": {
+              "estado": "liquidacion"
+            },
+            "tipo": "remera"
+          },
+          "cantidad": 10
+        },
+        {
+          "prenda": {
+            "precioBase": 80.0,
+            "estado": {
+              "estado": "liquidacion"
+            },
+            "tipo": "remera"
+          },
+          "cantidad": 50
+        },
+        {
+          "prenda": {
+            "precioBase": 180.0,
+            "estado": {
+              "estado": "nuevo"
+            },
+            "tipo": "campera"
+          },
+          "cantidad": 15
+        }
+      ],
+      "fecha": {
+        "year": 2018,
+        "month": 5,
+        "day": 23
+      }
+    },
+    {
+      "items": [
+        {
+          "prenda": {
+            "precioBase": 200.0,
+            "estado": {
+              "estado": "nuevo"
+            },
+            "tipo": "saco"
+          },
+          "cantidad": 7
+        }
+      ],
+      "fecha": {
+        "year": 2019,
+        "month": 3,
+        "day": 26
+      }
+    },
+    {
+      "items": [
+        {
+          "prenda": {
+            "precioBase": 20.0,
+            "estado": {
+              "estado": "promocion"
+            },
+            "tipo": "remera verde"
+          },
+          "cantidad": 1
+        }
+      ],
+      "fecha": {
+        "year": 2019,
+        "month": 1,
+        "day": 20
+      }
+    }
+  ]
+}

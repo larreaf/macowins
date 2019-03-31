@@ -1,0 +1,14 @@
+com\larreaf\macowins\NegocioJson.class
+com\larreaf\macowins\DescuentoPromocion.class
+com\larreaf\macowins\Prenda.class
+com\larreaf\macowins\Venta.class
+com\larreaf\macowins\VentaConTarjeta.class
+com\larreaf\macowins\Negocio.class
+com\larreaf\macowins\Promocion.class
+com\larreaf\macowins\Estado.class
+com\larreaf\macowins\Conversor.class
+com\larreaf\macowins\EstadoBuilder.class
+com\larreaf\macowins\Item.class
+com\larreaf\macowins\App.class
+com\larreaf\macowins\Liquidacion.class
+com\larreaf\macowins\Nuevo.class
