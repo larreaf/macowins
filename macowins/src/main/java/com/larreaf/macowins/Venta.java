@@ -9,7 +9,10 @@ public class Venta {
 	private List<Item> items;
 
 	public List<Item> getItems() {
-		return items;
+		List<Item> itemsCopia;
+		itemsCopia = new ArrayList<Item>();
+		itemsCopia.addAll(items);
+		return itemsCopia;
 	}
 
 	private LocalDate fecha;
